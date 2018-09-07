@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Chango|Oleo+Script+Swash+Caps');
+
+body {
+background: turquoise;
+font-family: 'Oleo Script Swash Caps', cursive;
+font-size: 15px
+}
+h1, h2{
+ font-family: 'Chango', cursive;
+}
+
+h1 {
+  font-size: 70px;
+  text-align : center;
+}
+h2{
+    text-align : center;
+}
+
+section {
+  max-width: 640px;
+  margin-left : auto;
+  margin-right : auto;
+}
+
+#sign-up-form{
+
+}
